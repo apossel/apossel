@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Amanda!</h1>
-<h3 align="center">Currently learning programming through EDUTECH.</h3>
+<h3 align="center">Currently learning programming.</h3>
 
-- I’m currently working on **personal developing projects (soon on github)**
+- I’m currently working on learning SAS, SQL, C#, and Rust.
 
-- I'm currently learning **HTML, CSS, JavaScript and Python.**
+- I'm currently learning **SAS, and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
